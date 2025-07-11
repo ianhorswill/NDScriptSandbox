@@ -39,7 +39,7 @@ const VARIABLE_DECLARATION = {
 hljs.registerLanguage('ndscript', function () {
     return {
         keywords: {
-            built_in: ['print', 'printLine', 'printImage'],
+            built_in: ['print', 'printLine', 'printImage', 'minimize', 'cost'],
             keyword: ['if', 'while', 'else', 'or',
                 'choose', 'choose\\s+first',
                 'function', 'var', 'return',
