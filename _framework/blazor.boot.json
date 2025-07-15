@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "NDScriptSandboxDotNet9",
   "resources": {
-    "hash": "sha256-5fWVupOYwvXcahmZddCHLw8CzVDIGFZmQNijZ0pjFE8=",
+    "hash": "sha256-j5Z3l0Ba9tUK8COhtSXvXnYlKFTUCWBFLX4ORMMno7o=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Components.cmgz443fyv.wasm": "Microsoft.AspNetCore.Components.wasm",
       "Microsoft.AspNetCore.Components.Web.b71v5pjkjc.wasm": "Microsoft.AspNetCore.Components.Web.wasm",
@@ -17,8 +17,8 @@
       "Microsoft.Extensions.Primitives.geznw6vy35.wasm": "Microsoft.Extensions.Primitives.wasm",
       "Microsoft.JSInterop.bdr89uoxtd.wasm": "Microsoft.JSInterop.wasm",
       "Microsoft.JSInterop.WebAssembly.p386u0jty9.wasm": "Microsoft.JSInterop.WebAssembly.wasm",
-      "NDScript.52awa2jv32.wasm": "NDScript.wasm",
-      "NDScriptSandboxDotNet9.8li2xezmrw.wasm": "NDScriptSandboxDotNet9.wasm",
+      "NDScript.w5xz0alky6.wasm": "NDScript.wasm",
+      "NDScriptSandboxDotNet9.55rmsdudl7.wasm": "NDScriptSandboxDotNet9.wasm",
       "netstandard.35uvoou2cv.wasm": "netstandard.wasm",
       "Sprache.pntl60ob0u.wasm": "Sprache.wasm",
       "System.Collections.Concurrent.jhswy1vvqg.wasm": "System.Collections.Concurrent.wasm",
@@ -80,8 +80,8 @@
       "Microsoft.Extensions.Primitives.geznw6vy35.wasm": "sha256-+HoDX+e0bGwi8OjZvR5ZpN4OxMMBE8OX4f2wu++wdqE=",
       "Microsoft.JSInterop.bdr89uoxtd.wasm": "sha256-j93883TLWrUsylBnXBVb1aCW34uImOVFvkmgV7v8tx0=",
       "Microsoft.JSInterop.WebAssembly.p386u0jty9.wasm": "sha256-hbzWuXrlepIqY/y+nQ2ZAFer2/njy1dc+Y4LUaAaL5E=",
-      "NDScript.52awa2jv32.wasm": "sha256-E4NA050n1SGkYEy9zIvu0rj3RkeQiw4O53dF0eEZ8fA=",
-      "NDScriptSandboxDotNet9.8li2xezmrw.wasm": "sha256-ZMwHrlUz253c+AFgsknTBTBDP9ADB76rQTiq6wi1GCk=",
+      "NDScript.w5xz0alky6.wasm": "sha256-pEqXXExFKo9McXN130c7rNo1jdBkvnAlCV1QsFACudE=",
+      "NDScriptSandboxDotNet9.55rmsdudl7.wasm": "sha256-F71ZRX55+5KhYpGI6x0bfZT7BGCgKSjFll/PDvMSqSI=",
       "netstandard.35uvoou2cv.wasm": "sha256-qX26pAyjpS331D/V7QAWShStqfeRoSC8je64gFC9tTA=",
       "Sprache.pntl60ob0u.wasm": "sha256-ZY9nNKUpMMQiVglm4Q0YHV2MsCHyixwsmsofJZgaCAs=",
       "System.Collections.Concurrent.jhswy1vvqg.wasm": "sha256-yfFv88sE2SLMpSmHeExd/hVYmcr+m6EVNHczHWzKHbg=",
