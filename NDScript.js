@@ -48,7 +48,7 @@ hljs.registerLanguage('ndscript', function () {
                 'relation', 'leftImage', 'rightImage'
             ],
             keyword: ['if', 'while', 'else', 'or',
-                'choose', 'choose\\s+first',
+                'choose', 'choose\\s+first', 'deterministic',
                 'function', 'var', 'return',
                 'in', 'fail', 'foreach'],
             literal: ['false', 'true', 'null'],
