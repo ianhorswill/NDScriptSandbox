@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "NDScriptSandboxDotNet9",
   "resources": {
-    "hash": "sha256-fkj11F0jb6uoolOcGCX1xRE2caFx+LScrb9SGltHuKg=",
+    "hash": "sha256-fWfqcbQw1oscKEmlGdLBlSEC/7GdJT5kGKnnu8PTBOE=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Components.dsg71oeov2.wasm": "Microsoft.AspNetCore.Components.wasm",
       "Microsoft.AspNetCore.Components.Web.o94q7wkvz3.wasm": "Microsoft.AspNetCore.Components.Web.wasm",
@@ -18,7 +18,7 @@
       "Microsoft.JSInterop.bu4g4pgg1f.wasm": "Microsoft.JSInterop.wasm",
       "Microsoft.JSInterop.WebAssembly.j5m7jjhb9v.wasm": "Microsoft.JSInterop.WebAssembly.wasm",
       "NDScript.l5aifmzbzo.wasm": "NDScript.wasm",
-      "NDScriptSandboxDotNet9.6sruie24zn.wasm": "NDScriptSandboxDotNet9.wasm",
+      "NDScriptSandboxDotNet9.i3gswireu9.wasm": "NDScriptSandboxDotNet9.wasm",
       "netstandard.hwj8a5x9m4.wasm": "netstandard.wasm",
       "Sprache.pntl60ob0u.wasm": "Sprache.wasm",
       "System.Collections.Concurrent.z31iah4lcc.wasm": "System.Collections.Concurrent.wasm",
@@ -81,7 +81,7 @@
       "Microsoft.JSInterop.bu4g4pgg1f.wasm": "sha256-ffsBRebJfROv8mxhpKliy2wiJx2E2q75yybCSYLt/Xw=",
       "Microsoft.JSInterop.WebAssembly.j5m7jjhb9v.wasm": "sha256-GaWH3/h+jMiywp+g7vt6i3wRVl+RkH+TV4HWg12yYXM=",
       "NDScript.l5aifmzbzo.wasm": "sha256-6Xq2PxykVwUT/8izyJ+OE6ztYxsRX1I0CBi8nnzB748=",
-      "NDScriptSandboxDotNet9.6sruie24zn.wasm": "sha256-JlLusqbtWUBOyTzraU8Ovz1aMHtgZO89zcn9zcjUzlA=",
+      "NDScriptSandboxDotNet9.i3gswireu9.wasm": "sha256-gucHWqfgdaacLviu5efHU4IYNJxiYADvLjJmMdEYlBY=",
       "netstandard.hwj8a5x9m4.wasm": "sha256-PxvN2GFaxVPmdpTCPc/HNlMZ7s55CiJhpgbCqKNdqlo=",
       "Sprache.pntl60ob0u.wasm": "sha256-ZY9nNKUpMMQiVglm4Q0YHV2MsCHyixwsmsofJZgaCAs=",
       "System.Collections.Concurrent.z31iah4lcc.wasm": "sha256-4XtKuynmvyTvoSZT+KyjG7Y39oBFk2XIuQnFp42/T2I=",
