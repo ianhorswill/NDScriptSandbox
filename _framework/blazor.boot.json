@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "NDScriptSandboxDotNet9",
   "resources": {
-    "hash": "sha256-Dzztv+7gTDR6DCZgwjpUlPlqFdpk04K/uENhRPFLEcU=",
+    "hash": "sha256-K/xME0G7cAut2xINbN5wrfcbBDmWYZCWZnT+z89JlQE=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Components.Web.o94q7wkvz3.wasm": "Microsoft.AspNetCore.Components.Web.wasm",
       "Microsoft.AspNetCore.Components.WebAssembly.89gzge6dxr.wasm": "Microsoft.AspNetCore.Components.WebAssembly.wasm",
@@ -17,8 +17,8 @@
       "Microsoft.Extensions.Primitives.azllpfyak0.wasm": "Microsoft.Extensions.Primitives.wasm",
       "Microsoft.JSInterop.WebAssembly.j5m7jjhb9v.wasm": "Microsoft.JSInterop.WebAssembly.wasm",
       "Microsoft.JSInterop.bu4g4pgg1f.wasm": "Microsoft.JSInterop.wasm",
-      "NDScript.hm7c8fev6h.wasm": "NDScript.wasm",
-      "NDScriptSandboxDotNet9.j4didnsfab.wasm": "NDScriptSandboxDotNet9.wasm",
+      "NDScript.5r3aejpuoh.wasm": "NDScript.wasm",
+      "NDScriptSandboxDotNet9.xqmhxgctxl.wasm": "NDScriptSandboxDotNet9.wasm",
       "Sprache.pntl60ob0u.wasm": "Sprache.wasm",
       "System.Collections.tug2rjk8v3.wasm": "System.Collections.wasm",
       "System.Collections.Concurrent.dm8tx8awz1.wasm": "System.Collections.Concurrent.wasm",
@@ -80,8 +80,8 @@
       "Microsoft.Extensions.Primitives.azllpfyak0.wasm": "sha256-hldSoIrCuyIge4SHMd1TO+id7w8Mxyrl7ogAseeiNLY=",
       "Microsoft.JSInterop.WebAssembly.j5m7jjhb9v.wasm": "sha256-GaWH3/h+jMiywp+g7vt6i3wRVl+RkH+TV4HWg12yYXM=",
       "Microsoft.JSInterop.bu4g4pgg1f.wasm": "sha256-ffsBRebJfROv8mxhpKliy2wiJx2E2q75yybCSYLt/Xw=",
-      "NDScript.hm7c8fev6h.wasm": "sha256-mfVb/7h6YzsSouqtGm0SVb0UDr6NNBfFq92TEFqt/sg=",
-      "NDScriptSandboxDotNet9.j4didnsfab.wasm": "sha256-DYQ/omELaSePCi7XEeJ/bBAP5uYPZSB7lxZvOQPdGQE=",
+      "NDScript.5r3aejpuoh.wasm": "sha256-f8SXISGucUr0xb9JblC4MkBsg8X5+34EqEouy5JPCOw=",
+      "NDScriptSandboxDotNet9.xqmhxgctxl.wasm": "sha256-l3FUZsPwTByJeDBGiBaeOi8IMZxuo7lw2FzGxFUEaTw=",
       "Sprache.pntl60ob0u.wasm": "sha256-ZY9nNKUpMMQiVglm4Q0YHV2MsCHyixwsmsofJZgaCAs=",
       "System.Collections.tug2rjk8v3.wasm": "sha256-1SiKtXK6qHQuSyFBXJv+d0XBBXn7Zu1KLPM6N9TBmbo=",
       "System.Collections.Concurrent.dm8tx8awz1.wasm": "sha256-G67yyY7eU8y4bwCPK+jQd5YyN1z+kQDWbjCFC0i9184=",
